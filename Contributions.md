@@ -1,4 +1,4 @@
-#### Name: [Md Najeeb](https://github.com/najeebdev98)
-- Place: Hyderabad, Telangana, India
-- Bio: B.Tech 3rd year student with aspiring dream.
-- GitHub: [najeebdbg](https://github.com/najeebdev98)
+#### Name: [Pradyumna Sharma](https://github.com/pradyumna14)
+- Place: Hamirpur, Himachal Pradesh, India
+- Bio: B.Tech 1st year student studying computer science and engineering and have a passionate to learning.
+- GitHub: [Pradyumnag](https://github.com/pradyumna14)
